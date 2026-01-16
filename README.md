@@ -3,6 +3,12 @@
   CuSafe: Capturing Memory Corruptions on NVIDIA GPUs
 </h1>
 
+<div style="display:flex; align-items:center;">
+  <img src="assets/img/logo.png" style="height:48px; margin-right:12px;">
+  <h1 style="margin:0;">
+  CuSafe: Capturing Memory Corruptions on NVIDIA GPUs
+  </h1>
+</div>
 ## Overview of CuSafe
 
 CuSafe is the **first** open-sourced sanitizer on NVIDIA GPUs. It captures all
