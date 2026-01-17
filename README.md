@@ -115,7 +115,7 @@ applications, e.g., it can run on LLaMA 3 8B with less than 15% overhead.
 @inproceedings{cusafe,  
 author = {Hongyi Lu and Fengwei Zhang and Zhenkai Zhang and Shuai Wang and Yanan Guo},  
 title = {CuSafe: Capturing Memory Corruptions on NVIDIA GPUs},  
-booktitle = {35rd USENIX Security Symposium (USENIX Security 26)},  
+booktitle = {35th USENIX Security Symposium (USENIX Security 26)},  
 year = {2026},  
 publisher = {USENIX Association},  
 month = aug  
